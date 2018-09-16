@@ -2,30 +2,38 @@ html {margin: 20px; padding:20px;}
 
  
 
-body {   font:65% Georgia, sans-serif;
+body {  font:110% Georgia, sans-serif;
+        color: #feda6a;
+        background-color:#393f4d
 
-              color: orange;
+       
 
-background: #fff (nbv.jpg)
+    }
 
-}
+div {   background-color:#1d1e22;
+        width: 90%;
+        border: 25px #d4d4dc;
+        padding: 25px;
+        margin:25px;
 
- 
+} 
 
-p {          margin-top:0;
+p {     margin-top:0;
+        text-align: justify;
+    }
 
-              text-align: justify;
+h1 {    font:large Georgia, sans-serif;
+        letter-spacing:1px;
+        color:#feda6a; 
+    }
 
-}
+h3 {    font: italic normal 125% georgia, sans-serif;
+        letter-spacing: 1px;
+        margin-bottom: 0;
+        color: lightskyblue;
+    }
 
-h3 {
+a {     color:lightseagreen}    
 
-              font: italic normal 75% georgia, sans-serif;
-
-              letter-spacing: 1px;
-
-              margin-bottom: 0;
-
-              color: bright blue;
-
-              }
+img {   height: 400px; width: auto; 
+} 
