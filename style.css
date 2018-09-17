@@ -33,7 +33,30 @@ h3 {    font: italic normal 125% georgia, sans-serif;
         color: lightskyblue;
     }
 
+h4 {    font: italic normal 100% georgia, san-serif;
+        letter-spacing:1px;
+        margin-bottom: 0;
+        color: orange  }
+
+h5 {    color: red}        
+
 a {     color:lightseagreen}    
 
-img {   height: 400px; width: auto; 
+img {   display:block;
+        height: 400px; 
+        margin-left: auto;
+        margin-right: auto;
+        width: 50;
 } 
+
+iframe {display: block;
+        margin: 0 auto;
+ }
+
+ article {color: yellow}
+
+ ul {color: yellow}
+
+ .plastic {
+        background-color:#005995
+ }
